@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Terminal boot sequence">
+  <rect width="1000" height="300" rx="12" fill="#050b16" stroke="#00f0ff" stroke-opacity="0.5"/>
+  <rect width="1000" height="32" rx="12" fill="#0a1830"/>
+  <circle cx="22" cy="16" r="5" fill="#ff5f56"/><circle cx="42" cy="16" r="5" fill="#ffbd2e"/><circle cx="62" cy="16" r="5" fill="#27c93f"/>
+  <text x="500" y="21" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#6b8bb0">saransh@neural-core: ~</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="16">
+    <text x="24" y="66" fill="#00f0ff" opacity="0">$ whoami<animate attributeName="opacity" to="1" begin="0.4s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="92" fill="#cfe9ff" opacity="0">Saransh Gupta // AI Engineer @ HRS Group, Mohali<animate attributeName="opacity" to="1" begin="1.2s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="130" fill="#00f0ff" opacity="0">$ cat mission.txt<animate attributeName="opacity" to="1" begin="2.2s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="156" fill="#cfe9ff" opacity="0">Building production GenAI, LLM and RAG systems for enterprise travel.<animate attributeName="opacity" to="1" begin="3s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="194" fill="#00f0ff" opacity="0">$ ./status --modules<animate attributeName="opacity" to="1" begin="4s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="220" fill="#7cffb2" opacity="0">[ OK ] LLM Orchestration     [ OK ] RAG Pipelines     [ OK ] Multi-Agent Systems<animate attributeName="opacity" to="1" begin="4.8s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="246" fill="#7cffb2" opacity="0">[ OK ] Computer Vision       [ OK ] ML in Production  [ OK ] Open to opportunities<animate attributeName="opacity" to="1" begin="5.6s" dur="0.01s" fill="freeze"/></text>
+    <text x="24" y="282" fill="#00f0ff">$ <tspan fill="#00f0ff">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
