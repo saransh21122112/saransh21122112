@@ -37,8 +37,6 @@ AI Engineer with 2+ years of experience shipping **Generative AI, LLM and machin
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saransh21122112&hide_border=true&background=050b16&ring=00f0ff&fire=7c5cff&currStreakLabel=00f0ff&sideLabels=cfe9ff&currStreakNum=cfe9ff&sideNums=cfe9ff&dates=6b8bb0" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saransh21122112&bg_color=050b16&color=00f0ff&line=7c5cff&point=ffffff&area=true&area_color=7c5cff&hide_border=true" alt="Activity graph" width="100%"/>
-
 </div>
 
 <img src="sec5.svg" alt="Open channel" width="100%"/>
